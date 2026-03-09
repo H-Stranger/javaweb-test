@@ -13,6 +13,7 @@ class JavawebTestApplicationTests {
     @Test
     public void testHello2(){
         System.out.println("hello world3");
+        System.out.println("hello world2");
     }
 
 }
