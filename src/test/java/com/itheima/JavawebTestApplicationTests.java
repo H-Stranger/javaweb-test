@@ -10,5 +10,9 @@ class JavawebTestApplicationTests {
     public void testHello(){
         System.out.println("hello world");
     }
+    @Test
+    public void testHello2(){
+        System.out.println("hello world2");
+    }
 
 }
